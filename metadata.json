@@ -1,0 +1,8 @@
+{
+  "name": "숲 타이쿤",
+  "description": "아늑한 분위기에서 즐기는 힐링 마을 경영 타이쿤 게임. 작물을 키우고 가게를 운영하며 주민들과 친해지세요. PeerJS로 멀티플레이어 협동 플레이도 지원합니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
